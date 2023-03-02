@@ -14,12 +14,12 @@
 ---
 
 ####  
-          <div align="center">👨🏾‍💻  About Me :</div>
+          👨🏾‍💻  About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve different coding problems.
 - :mailbox: ringo.ebenezer@gmail.com
 
 ###
-    <div align="center"> 💼 Always ready to learn,work and collaborate.</div>
+      💼 Always ready to learn,work and collaborate.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 <div align="center">
-### :fire: My Stats :
+:fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ringoebenezer&theme=dark&background=000000)](https://git.io/streak-stats)
 
