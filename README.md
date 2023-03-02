@@ -13,5 +13,5 @@
 
 ---
 
-### :technologist: About Me :
+### :👨🏾‍💻: About Me :
 
