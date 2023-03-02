@@ -18,7 +18,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve different coding problems.
 - :mailbox: ringo.ebenezer@gmail.com
 
-<div align="center"> 💼 ALways ready to learn,work and collaborate.</div>
+<div align="center"> 💼 Always ready to learn,work and collaborate.</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
