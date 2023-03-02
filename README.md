@@ -20,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: ringo.ebenezer@gmail.com
 
 ###
-    💼  Let's Work together.
+    <span align="center">💼  Let's Work together.</span>
 
 ### :hammer_and_wrench: Languages and Tools :
   
