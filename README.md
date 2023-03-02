@@ -14,7 +14,7 @@
 ---
 
 ####  
-          👨🏾‍💻  About Me :
+          👨🏾‍💻  About Me
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve different coding problems.
 - :mailbox: ringo.ebenezer@gmail.com
 
